@@ -1,66 +1,91 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Gestor_Tarefas
+Um Gestor de Tarefas Simples e Prático
+
+<h1> Gestor de Tarefas</h1> 
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://img.shields.io/static/v1?label=php&message=Logica&color=blue&style=for-the-badge&logo=PHP"/>
+  <img src="https://img.shields.io/static/v1?label=laravel&message=Framework&color=blue&style=for-the-badge&logo=Laravel"/>
+  <img src="https://img.shields.io/static/v1?label=javascript&message=Animacoes&color=blue&style=for-the-badge&logo=Javascript"/>
+  <img src="https://img.shields.io/static/v1?label=Html&message=Estrutura&color=blue&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/static/v1?label=Bootstrap&message=Estilizacao&color=blue&style=for-the-badge&logo=Bootstrap"/>
+  <img src="http://img.shields.io/static/v1?label=SQL&message=Banco de Dados&color=red&style=for-the-badge&logo=sql"/> <br>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=RED&style=for-the-badge"/>
 </p>
 
-## About Laravel
+### Tópicos 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-dash)
 
-## Learning Laravel
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+... 
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Descrição do projeto 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p align="justify">
+  Um Gestor de Tarefas Simples e Prático !!
 
-## Laravel Sponsors
+  Inicialmente é preciso possuir um login para entrar no seu gestor, sendo assim, cada usuário terá suas próprias tarefas. 
+  
+  Será possivel criar, editar e eliminar as suas tarefas desejadas, além de procurar e listar tarefas específicas.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+  O usuário deverá definir o nome, descrição de suas tarefas e seu determinado status, sendo possível editar e eliminar posteriormente. 
+</p>
 
-### Premium Partners
+## Funcionalidades
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+:heavy_check_mark: Criar Tarefas
 
-## Contributing
+:heavy_check_mark: Editar Tarefas
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+:heavy_check_mark: Procurar e Listar Tarefas
 
-## Code of Conduct
+:heavy_check_mark: Eliminar Tarefas
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Layout da Aplicação :dash:
 
-## Security Vulnerabilities
+<p align="center"> Login </p>
+<p align="center">
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/1e620073-8709-44d2-9d2d-42f0f6589c69" alt="Login" width="700px ">
+</p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<hr>
 
-## License
+<p align="center"> Página Principal </p>
+<p align="center">
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/c00d32ea-1e70-4b72-8d64-4180cc3d4a23" alt="Página Principal" width="700px ">
+</p>
+
+<hr>
+
+
+<p align="center">Nova Tarefa</p>
+<p align="center">
+
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/08a540c4-06b9-4950-844d-5a53c0edd84c" alt="Nova Tarefa" width="700px ">
+</p>
+
+<hr>
+
+<p align="center">Editar Tarefa</p>
+<p align="center">
+
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/8e9ca401-092a-4a5a-8a83-f7c3bbbd9557" alt="Editar Tarefa" width="700px ">
+</p>
+
+## Pré-requisitos
+
+:warning: [Laravel]((https://laravel.com/)) <br>
+:warning: [PHP]((https://www.php.net/downloads.php)) <br>
+:warning: [SQL] <br>
+:warning: [Ambiente (Ex: Laragon)] <br>
+
+## Importante !!
+  Este não é um projeto autoral, sendo feito apenas para entender e aprender os principais funcionamentos do Framework Laravel. 
+  Deixo os créditos da aplicação para o professor João Ribeiro, que ministra o curso "Desenvolvimento Web Completo e Compacto" na Udemy !!
