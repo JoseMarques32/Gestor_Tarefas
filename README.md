@@ -51,7 +51,7 @@ Um Gestor de Tarefas Simples e Prático
 
 <p align="center"> Login </p>
 <p align="center">
-<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/1e620073-8709-44d2-9d2d-42f0f6589c69" alt="Login" width="700px ">
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/ae82c0c4-c6f0-4da7-a02e-52cd41b739fa" alt="Login" width="700px ">
 </p>
 
 <hr>
@@ -59,16 +59,15 @@ Um Gestor de Tarefas Simples e Prático
 <p align="center"> Página Principal </p>
 <p align="center">
 
-<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/c00d32ea-1e70-4b72-8d64-4180cc3d4a23" alt="Página Principal" width="700px ">
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/6478b94e-0a1b-4737-a6b4-40cc5d2d14ea" alt="Página Principal" width="700px ">
 </p>
 
 <hr>
 
-
 <p align="center">Nova Tarefa</p>
 <p align="center">
 
-<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/08a540c4-06b9-4950-844d-5a53c0edd84c" alt="Nova Tarefa" width="700px ">
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/db40bb02-4dbe-4e02-91a0-7c40a0ebafc7" alt="Nova Tarefa" width="700px ">
 </p>
 
 <hr>
@@ -76,7 +75,7 @@ Um Gestor de Tarefas Simples e Prático
 <p align="center">Editar Tarefa</p>
 <p align="center">
 
-<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/8e9ca401-092a-4a5a-8a83-f7c3bbbd9557" alt="Editar Tarefa" width="700px ">
+<img src="https://github.com/JoseMarques32/Gestor_Tarefas/assets/105003594/3065f6f4-7899-42ce-8db7-ee9a69652180" alt="Editar Tarefa" width="700px ">
 </p>
 
 ## Pré-requisitos
